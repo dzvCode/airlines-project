@@ -10,9 +10,10 @@ public class App {
         User mod = new User();
         UserDAO modC = new UserDAO();
         /*frmUser frm = new frmUser(null);
-
+        
         UserController ctrl = new UserController(mod, modC, frm);
         ctrl.iniciar();
         frm.setVisible(true);*/
+        System.out.println("Hola");
     }
 }
